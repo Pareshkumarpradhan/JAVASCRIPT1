@@ -1,0 +1,14 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#joke{
+    background-color: rgb(243, 220, 190);
+    color: rgb(70, 70, 69);
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
